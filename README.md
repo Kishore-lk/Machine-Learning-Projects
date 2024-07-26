@@ -1,0 +1,1 @@
+This repo consists of some of my Machine Learning projects which are explored and analysed the working of various algorithms and its accuracies. The Languages used here is in Python and R. Jupyter notebook, Rstudio and SPSS tool is for this project.
